@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Malachov
-- 👀 I’m interested in: Machine learning, time series prediction, industry 4.0...
-- 🌱 I’m currently learning: I'm PhD. candidate on Czech technical university in Prague
+- 👀 I’m interested in: Machine learning, time series prediction, data preprocessing... Languages mostly python (may also be JS or go)
+- 🌱If i would have one word to describe my personality, it's enthusiasm
 - 📫 How to reach me: malachovd@seznam.cz
