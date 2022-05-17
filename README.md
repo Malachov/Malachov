@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Malachov
-- 👀 I’m interested in: Machine learning, time series prediction, data preprocessing... Languages mostly python (may also be JS or go)
+- 👀 I’m interested in: Machine learning, time series prediction, data preprocessing... Languages mostly python (may also be JS/TS or go)
 - 🌱If i would have one word to describe my personality, it's enthusiasm
 - 📫 How to reach me: malachovd@seznam.cz
